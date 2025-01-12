@@ -32,7 +32,7 @@ Welcome to my GitHub profile!
 
 ## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/hemavarssinisegar)
+- [LinkedIn](https://www.linkedin.com/in/hemavarssinisegar){:target="_blank"}
 
 
 Thank you for visiting my profile! 😊
