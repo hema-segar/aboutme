@@ -1,6 +1,6 @@
 # Data Analyst
 
-# Hello! I'm Hema varssini Segar (But you can call me Hema):)
+# Hello! I'm Hema Varssini Segar aka Hema:)
 
 Welcome to my GitHub profile! 
 
