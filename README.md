@@ -13,10 +13,10 @@ Welcome to my GitHub profile!
 
 ## Skills
 
-- **Languages:** Python, SQL, DAX
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization
-- **Tools:** Excel, Power BI , Jupyter Notebook
+- **Languages:** Python | SQL | DAX
+- **Libraries:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+- **Data Analysis:** Data Cleaning | Data Visualization
+- **Tools:** Excel | Power BI | Jupyter Notebook
 
 ## Projects
 
