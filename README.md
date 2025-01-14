@@ -22,22 +22,30 @@ Welcome to my GitHub profile!
 Details of my certificates can be viewed from [my Credly profile](https://www.credly.com/users/hema-varssini-segar)
 
 ## Work Experience
+### Games Master | *Active Reality Pvt. Ltd.* | Newcastle, United Kingdom  
+**May 2024 - Present**  
+- Delivered 5⭐ gameplay experiences, boosting player satisfaction on Google Reviews and TripAdvisor.  
+- Increased repeat visits by 30%, building stronger customer relationships and driving bookings.  
+- Managed fast-paced environments, reducing disruptions and ensuring smooth gameplay, resulting in consistent positive feedback.
+
+
+
 
 ## Volunteering & Extracurricular
--🎓 Microsoft Learn Student Ambassador
--🌟 Microsoft Eminent Expertise Community Ambassador
+- 🎓 Microsoft Learn Student Ambassador
+- 🌟 Microsoft Eminent Expertise Community Ambassador
   - Delivered a talk during the Microsoft x UTHM Bootcamp on the importance of upskilling, inspiring students to enhance their technical knowledge.
--🛠️ Conference Volunteer
+- 🛠️ Conference Volunteer
   - Assisted in organizing the 29th International Conference on Automation and Computing (ICAC 2024), ensuring smooth operations for an international audience.
--🤝 Charity Fundraiser
+- 🤝 Charity Fundraiser
   - Raised awareness and £78 for the Stroke Association through door-to-door fundraising while educating people about new medical treatments.
--🌍 Community Networking
+- 🌍 Community Networking
   - Participated in community gatherings to build connections and network with professionals and industry leaders.
 
 ## Fun Fact
--💃 Passionate Bharatanatyam (classical Indian dance) dancer
--🎥 A certified crime-thriller movie lover
--✈️ Travel enthusiast with stamps from France, Ireland, Belgium, and Scotland
+- 💃 Passionate Bharatanatyam (classical Indian dance) dancer
+- 🎥 A certified crime-thriller movie lover
+- ✈️ Travel enthusiast with stamps from France, Ireland, Belgium, and Scotland
 
 ## Let's Connect!
 
