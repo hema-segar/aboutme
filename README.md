@@ -1,47 +1,71 @@
-# Data Analyst
+# Hi there! 👋 I'm Hema Varssini Segar  
 
-# Hello! I'm Hema Varssini Segar aka Hema:)
+Welcome to my GitHub! 😊  
 
-Welcome to my GitHub profile! 
+## About Me  
 
-## About Me
+- 💼 6-months working experience for as Microsoft Partner Company
+- 🎓 MSc Data Science (Distinction) | BSc Industrial Statistics (2:1)
+- 📜 Microsoft-certified Power BI and Excel Expert ([Credly Profile](https://www.credly.com/users/hema-varssini-segar))  
+- 🔍 Passionate about leveraging data to drive insights and decisions.  
+- 📫 Reach me at [hemavarssini31@outlook.com](mailto:hemavarssini31@outlook.com).  
 
-- 🎓 MSc Data Science (Distinction) & B.Sc. in Industrial Statistics (Second Class Upper 2:1).
-- 📜 Certified Power BI and Excel Expert by Microsoft (View my certifications through my credly profile)
-- 🔭 Interested in Data Analytics
-- 📫 How to reach me: [hemavarssini31@outlook.com](mailto:hemavarssini31@outlook.com)
+---
 
-## Skills
+## Skills  
+- **Programming:** Python | SQL | DAX  
+- **Libraries:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn  
+- **Data Tools:** Power BI | Excel | Jupyter Notebook  
+- **Core Skills:** Data Cleaning | Data Visualization  
 
-- **Languages:** Python | SQL | DAX
-- **Libraries:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
-- **Data Analysis:** Data Cleaning | Data Visualization
-- **Tools:** Excel | Power BI | Jupyter Notebook
+---
 
-## Professional Certifications
-Details of my certificates can be viewed from [my Credly profile](https://www.credly.com/users/hema-varssini-segar)
+## Work Experience  
 
-## Work Experience
-
-## Volunteering & Extracurricular
--🎓 Microsoft Learn Student Ambassador
--🌟 Microsoft Eminent Expertise Community Ambassador
-  - Delivered a talk during the Microsoft x UTHM Bootcamp on the importance of upskilling, inspiring students to enhance their technical knowledge.
--🛠️ Conference Volunteer
-  - Assisted in organizing the 29th International Conference on Automation and Computing (ICAC 2024), ensuring smooth operations for an international audience.
--🤝 Charity Fundraiser
-  - Raised awareness and £78 for the Stroke Association through door-to-door fundraising while educating people about new medical treatments.
--🌍 Community Networking
-  - Participated in community gatherings to build connections and network with professionals and industry leaders.
-
-## Fun Fact
--💃 Passionate Bharatanatyam (classical Indian dance) dancer
--🎥 A certified crime-thriller movie lover
--✈️ Travel enthusiast with stamps from France, Ireland, Belgium, and Scotland
-
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/hemavarssinisegar)
+### ~ Games Master  
+**Active Reality Pvt. Ltd.** | *Newcastle, UK*  
+- Delivered tailored customer experiences and upsold services to encourage repeat visits.  
+- Managed gameplay in a fast-paced environment with calmness and adaptability.
 
 
-Thank you for visiting my profile! 😊
+### ~ Solutions Engineer  
+**Enfrasys Consulting Sdn Bhd** | *Kuala Lumpur, Malaysia*  
+- Resolved client queries and managed critical issues with 100% SLA compliance.  
+- Automated daily engineering tasks using Power Automate, Excel, and Outlook.  
+- Built an Azure Cost Management dashboard using Power BI and DAX for actionable insights.  
+- Authored 40% of the Knowledge Base with clear, data-driven visuals and presentations.  
+
+
+### ~ Retail Assistant  
+**New Market Pvt. Ltd.** | *Kedah, Malaysia*  
+**May 2019 – July 2019**  
+- Assisted customers with product inquiries, ensuring an excellent shopping experience.  
+- Maintained store organization and handled inventory management efficiently.  
+- Gained valuable interpersonal and customer service skills in a fast-paced retail environment.  
+
+---
+
+## Volunteering & Extracurricular  
+- 🎓 **Microsoft Learn Student Ambassador**  
+- 🌟 **Microsoft Eminent Expertise Community Ambassador**  
+  - Delivered a talk on upskilling at the Microsoft x UTHM Bootcamp.  
+- 🤝 **Charity Fundraiser**  
+  - Raised £78 for the Stroke Association while raising awareness about new treatments.  
+- 🛠️ **Conference Volunteer**  
+  - Assisted in organizing the 29th International Conference on Automation and Computing (ICAC 2024).  
+- 🌍 **Community Networking**  
+  - Actively participates in gatherings to connect with professionals and industry leaders.  
+
+---
+
+## Fun Facts  
+- 💃 Passionate Bharatanatyam dancer  
+- 🎥 A certified crime-thriller movie lover  
+- ✈️ Travel enthusiast with stamps from France, Ireland, Belgium, and Scotland  
+
+---
+
+## Let's Connect!  
+- [LinkedIn](https://www.linkedin.com/in/hemavarssinisegar)  
+
+Thanks for visiting my profile! 😊  
